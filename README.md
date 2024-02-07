@@ -1,10 +1,7 @@
-### Hi there ⭐, I'm Leta
+### Hi there ⭐
 
-I'm a frontend developer (and a little bit backend)
 
-- Always learning something new
-- Open to interesting projects
-
+<!--
 ## Stack 
 
 
@@ -34,7 +31,7 @@ I'm a frontend developer (and a little bit backend)
 
 
 
-<!--
+
 **AdorraBell/AdorraBell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
